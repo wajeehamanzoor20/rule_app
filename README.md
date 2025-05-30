@@ -11,8 +11,6 @@ This project implements a dynamic web application for managing rulesets, featuri
 3. [Beyond Explicit Requirements](#3-beyond-explicit-requirements)  
 4. [Areas for Improvement](#4-areas-for-improvement)  
 5. [Setup and Installation](#5-setup-and-installation)  
-6. [Usage](#6-usage)  
-7. [Technologies Used](#7-technologies-used)
 
 ---
 
@@ -65,7 +63,7 @@ The Rules Management Application provides a streamlined way to interact with and
 ## 5. Setup and Installation
 
 First, clone the repository:
-`git clone https://github.com/YOUR_USERNAME/rules-app.git`
+`git clone https://github.com/wajeehamanzoor20/rule_app.git`
 
 ### Option 1: Using Docker
 
